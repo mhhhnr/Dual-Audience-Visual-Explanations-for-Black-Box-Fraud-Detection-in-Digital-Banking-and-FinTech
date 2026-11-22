@@ -1,5 +1,0 @@
-TransactionID,Actual,Predicted,Fraud_Probability,Case_Type,Top_Features,SHAP_Values
-3516550,1,1,0.99916816,True Positive,C1 | V258 | C11 | C6 | C2,2.0491 | 0.7178 | 0.6993 | 0.4815 | 0.4471
-3525839,0,0,5.502753e-05,True Negative,V165 | D13 | C13 | P_emaildomain_Frequency | card1,-0.7736 | -0.7430 | -0.6926 | -0.6833 | -0.5051
-3539773,0,1,0.71649283,False Positive,C14 | TransactionDT | C13 | D8 | card1,1.0560 | -0.7058 | 0.4703 | -0.3296 | -0.2616
-3459560,1,0,0.006270767,False Negative,P_emaildomain_Frequency | R_emaildomain_Frequency | TransactionDT | id_19 | C5,-0.7533 | -0.6164 | -0.5226 | -0.2816 | -0.2620
