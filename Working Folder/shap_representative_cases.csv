@@ -1,0 +1,5 @@
+TransactionID,Actual,Fraud_Probability,Predicted,Case_Type
+3516550,1,0.99916816,1,True Positive
+3525839,0,5.502753e-05,0,True Negative
+3539773,0,0.71649283,1,False Positive
+3459560,1,0.006270767,0,False Negative
